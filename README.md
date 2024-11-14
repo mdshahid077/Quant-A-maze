@@ -1,9 +1,9 @@
-# <p align="center">walletwit</p>
+# <p align="center">Vaultana</p>
 
 Smart crypto analytics with a humorous twist. Track transactions, balances,
 and more in a fun and simplified way.
 
-Demo : [https://walletwit.vercel.app/](https://walletwit.vercel.app/)
+Demo : [https://Vaultana.vercel.app/](https://Vaultana.vercel.app/)
 
 ## 🛠️ How to run
 
